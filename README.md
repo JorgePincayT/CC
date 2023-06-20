@@ -1,6 +1,6 @@
 # CC
 
-By: wh04m1
+By: JDPT
 
                                               Cifrador Cesar       
                                     Cifra y descifra cadenas de textos
