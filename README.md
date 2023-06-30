@@ -14,7 +14,7 @@ By: JDPT
 
 apt update
   
-git clone https://github.com/1mwh04m1/cc.git
+git clone https://github.com/JorgePincayT/cc.git
 
 cd cc
     
